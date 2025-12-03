@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "セツナ",
+  "base_artist": "Sunny Day Service",
+  "createdAt": "2025-12-03T23:16:34.047265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セツナ",
+      "artist": "Sunny Day Service",
+      "has_synced": true,
+      "path": "select/01_セツナ_Sunny_Day_Service.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セツナ Ring a Bell",
+      "artist": "内田真礼",
+      "has_synced": true,
+      "path": "select/02_セツナ_Ring_a_Bell_内田真礼.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "セツナ Ring a Bell",
+      "artist": "Maaya Uchida",
+      "has_synced": true,
+      "path": "select/03_セツナ_Ring_a_Bell_Maaya_Uchida.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "セツナ",
+      "artist": "Sakamoto, Maaya",
+      "has_synced": false,
+      "path": "select/04_セツナ_Sakamoto,_Maaya.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "セツナ",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/05_セツナ_坂本真綾.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セツナ",
+      "artist": "Sunny Day Service",
+      "has_synced": false,
+      "path": "select/pl_01_セツナ_Sunny_Day_Service.txt"
+    }
+  ]
+}
